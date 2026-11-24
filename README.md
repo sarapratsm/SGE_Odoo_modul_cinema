@@ -1,5 +1,8 @@
 # Mòdul Odoo: Cinema
 
+![CFGS DAM](https://img.shields.io/badge/CFGS-DAM-green)
+![SGE](https://img.shields.io/badge/assignatura-SGE-purple)
+
 Mòdul d'Odoo per gestionar un catàleg de pel·lícules, directors i actors. Correspon a la pràctica d'examen de maig de 2025 de l'assignatura de Sistemes de Gestió Empresarial (SGE) del CFGS de Desenvolupament d'Aplicacions Multiplataforma (Institut Milà i Fontanals, Igualada).
 
 ## Models
